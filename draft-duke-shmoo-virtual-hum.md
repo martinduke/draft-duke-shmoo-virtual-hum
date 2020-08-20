@@ -84,7 +84,7 @@ This specification is intended to be feature complete, which means that what sho
 * A session chair can open a hum.
 * A session chair can open a hum at any time during a session, except when a hum is already open.
 * A session chair can open multiple hums per session.
-* A hum is automatically closed 20 seconds after it is open.
+* A hum is automatically closed 35 seconds after it is open.
 
 
 ## Taking part in a hum
