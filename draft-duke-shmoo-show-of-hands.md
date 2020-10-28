@@ -1,6 +1,6 @@
 ---
 title: "Specification for a show of hands tool"
-abbrev: ShowOfHands
+abbrev: "Show Of Hands"
 docname: draft-duke-shmoo-show-of-hands-00
 date: {DATE}
 category: info
@@ -16,14 +16,17 @@ author:
   org: F5 Networks, Inc
   email: martin.h.duke@gmail.com
 
-normative:	
+informative:
 
-Informative:
   DRAFT_VIRTUAL_HUM:
-    Target: https://datatracker.ietf.org/doc/draft-duke-shmoo-virtual-hum/
+    title: "Specification for a virtual humming tool"
+    target: https://datatracker.ietf.org/doc/draft-duke-shmoo-virtual-hum/
     date: 2020
+
   SURVEY_108:
-    Target: https://www.ietf.org/media/documents/IETF_108_Meeting_Survey.pdf
+    title: "IETF 108 Survey"
+    target: https://www.ietf.org/media/documents/IETF_108_Meeting_Survey.pdf
+    date: 2020
 
 --- abstract
 
